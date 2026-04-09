@@ -15,12 +15,16 @@
 | Role | Member | Responsibilities |
 |------|--------|-----------------|
 | Team Lead | [Name] | Coordinate meetings, track overall progress |
-| Note Taker | [Name] | Document meeting notes and action items |
+| Co-Lead / Note Taker | [Name] | Document meeting notes, assist team lead |
+| Developer | [Name] | [Specific area of ownership] |
+| Developer | [Name] | [Specific area of ownership] |
+| Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Tester | [Name] | Write and maintain tests |
+| Tester | [Name] | Write and maintain tests |
 | Designer | [Name] | UI/UX design and prototyping |
-| [Role] | [Name] | [Responsibilities] |
+| Designer | [Name] | UI/UX design and prototyping |
 
 *Roles may rotate or flex based on workload and availability.*
 
@@ -31,6 +35,15 @@
 | Member | Strengths | Areas for Growth |
 |--------|-----------|-----------------|
 | [Name] | [e.g., JavaScript, design] | [e.g., testing, backend] |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
 | [Name] | | |
 
 ## 5. Communication
@@ -70,6 +83,11 @@ By signing below, each member agrees to uphold this charter.
 
 | Member | Signature | Date |
 |--------|-----------|------|
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
+| [Name] | | |
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
