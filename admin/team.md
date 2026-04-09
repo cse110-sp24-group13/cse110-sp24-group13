@@ -12,7 +12,7 @@ No **shortcuts**, we focus on the **foundation**. To us, 'Hard Coders' means bui
 * Clear Communication 
 * Vibes
 
-### Team Members 
+## Team Members 
 * Aidan Rikic (Team Lead) https://aidanrik.github.io/CSE-110-Pages-Project/
 * Shazi Bidarian (Team Lead) https://shazibid.github.io/GitHub-Pages/
 * Aaron Thung https://aaronthung46.github.io/CSELAB1/
