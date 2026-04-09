@@ -19,7 +19,7 @@
 | Team Lead | [Name] | [Specific area of ownership] |
 | Developer | Jeremy Lim | [Specific area of ownership] |
 | Developer | Andrew Lopez | Planning and Coding |
-| Developer | [Name] | [Specific area of ownership] |
+| Developer | [Aaron Thung] | Coding and Miscellaneous tasks |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
@@ -38,7 +38,7 @@
 | Shazi Bidarian | Collaboration, Communication | Debugging code not written by me |
 | Jeremy Lim | Coding Logic, Debugging | Communication |
 | Andrew Lopez | Coding Logic, Debugging, Communication| Debugging code not written by me|
-| [Name] | | |
+| Aaron Thung | Learning, Communication | Testing, Logistics |
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
