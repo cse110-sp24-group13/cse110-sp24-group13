@@ -83,6 +83,6 @@
 ## 10. Signatures
 By signing below, each member agrees to uphold this charter.
 
-Name: [Enter Name] Andrew Lopez, Aaron Thung 
+Name: [Enter Name in a copied file, look to canvas/slack for instructions]
 
-Signature: [Sign Here] Andrew Lopez 
+Signature: [Sign Here] 
