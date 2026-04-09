@@ -81,16 +81,6 @@
 ## 10. Signatures
 By signing below, each member agrees to uphold this charter.
 
-| Member | Signature | Date |
-|--------|-----------|------|
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
-| [Name] | | |
+Name: [Enter Name]
+
+Signature: [Sign Here]
