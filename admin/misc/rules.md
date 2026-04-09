@@ -15,16 +15,16 @@
 | Role | Member | Responsibilities |
 |------|--------|-----------------|
 | Team Lead | [Name] | Coordinate meetings, track overall progress |
-| Co-Lead / Note Taker | [Name] | Document meeting notes, assist team lead |
+| Team Lead | [Name] | Document meeting notes, assist team lead |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
-| Tester | [Name] | Write and maintain tests |
-| Tester | [Name] | Write and maintain tests |
-| Designer | [Name] | UI/UX design and prototyping |
-| Designer | [Name] | UI/UX design and prototyping |
+| Developer | [Name] | Write and maintain tests |
+| Developer | [Name] | Write and maintain tests |
+| Developer | [Name] | UI/UX design and prototyping |
+| Developer | [Name] | UI/UX design and prototyping |
 
 *Roles may rotate or flex based on workload and availability.*
 
