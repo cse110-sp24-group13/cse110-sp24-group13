@@ -18,7 +18,7 @@
 | Team Lead | Shazi Bidarian | Coordinate meetings, track overall progress, Contribute to project and team needs |
 | Team Lead | [Name] | [Specific area of ownership] |
 | Developer | Jeremy Lim | [Specific area of ownership] |
-| Developer | Andrew Lopez | Software Engineer, planning, coding |
+| Developer | Andrew Lopez | Planning and Coding |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
