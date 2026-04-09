@@ -17,8 +17,8 @@
 |------|--------|-----------------|
 | Team Lead | Shazi Bidarian | Coordinate meetings, track overall progress, Contribute to project and team needs |
 | Team Lead | [Name] | [Specific area of ownership] |
-| Developer | [Name] | [Specific area of ownership] |
-| Developer | [Name] | [Specific area of ownership] |
+| Developer | Jeremy Lim | [Specific area of ownership] |
+| Developer | Andrew Lopez | Planning and Coding |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
@@ -36,8 +36,8 @@
 | Member | Strengths | Areas for Growth |
 |--------|-----------|-----------------|
 | Shazi Bidarian | Collaboration, Communication | Debugging code not written by me |
-| [Name] | | |
-| [Name] | | |
+| Jeremy Lim | Coding Logic, Debugging | Communication |
+| Andrew Lopez | Coding Logic, Debugging, Communication| Debugging code not written by me|
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
@@ -83,6 +83,6 @@
 ## 10. Signatures
 By signing below, each member agrees to uphold this charter.
 
-Name: [Enter Name]
+Name: [Enter Name] Andrew Lopez 
 
-Signature: [Sign Here]
+Signature: [Sign Here] Andrew Lopez 
