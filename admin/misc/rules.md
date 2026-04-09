@@ -19,7 +19,7 @@
 | Team Lead | [Name] | [Specific area of ownership] |
 | Developer | Jeremy Lim | [Specific area of ownership] |
 | Developer | Andrew Lopez | Planning and Coding |
-| Developer | [Aaron Thung] | Coding and Miscellaneous tasks |
+| Developer | Aaron Thung | Coding and Miscellaneous tasks |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
@@ -83,6 +83,6 @@
 ## 10. Signatures
 By signing below, each member agrees to uphold this charter.
 
-Name: [Enter Name] Andrew Lopez 
+Name: [Enter Name] Andrew Lopez, Aaron Thung 
 
 Signature: [Sign Here] Andrew Lopez 
