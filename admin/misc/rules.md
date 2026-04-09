@@ -17,7 +17,7 @@
 |------|--------|-----------------|
 | Team Lead | Shazi Bidarian | Coordinate meetings, track overall progress, Contribute to project and team needs |
 | Team Lead | [Name] | [Specific area of ownership] |
-| Developer | [Name] | [Specific area of ownership] |
+| Developer | Jeremy Lim | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
@@ -36,7 +36,7 @@
 | Member | Strengths | Areas for Growth |
 |--------|-----------|-----------------|
 | Shazi Bidarian | Collaboration, Communication | Debugging code not written by me |
-| [Name] | | |
+| Jeremy Lim | Coding Logic, Debugging | Communication |
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
