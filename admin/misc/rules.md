@@ -51,8 +51,8 @@
 - **Primary channel:** Slack
 - **Response time expectation:** Members should respond within 24 hours on weekdays.
 - **Meetings:** [e.g., Tuesdays and Thursdays at 5 PM via Zoom / in-person at Geisel]
-- **Stand-ups:** [e.g., async daily updates in Slack by 9 PM]
-- Meeting notes will be posted to [location] within [timeframe] after each meeting.
+- **Stand-ups:** async updates few times a week on progress and check ins
+- Meeting notes will be posted to slack within 3 hours after each meeting.
 
 ## 6. Scheduling and Availability
 - Members will share their weekly availability on when2meet.
