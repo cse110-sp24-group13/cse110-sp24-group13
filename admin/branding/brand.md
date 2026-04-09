@@ -8,9 +8,8 @@ No **shortcuts**, we focus on the **foundation**. To us, 'Hard Coders' means bui
 Red and Yellow (see logo)
 
 ### Logo
-![Logo](13.jpg)
+![Logo](hard-coders-logo.png)
 
 ### Mascot
-Lion
 
 ![Mascot](hard-coders.png)
