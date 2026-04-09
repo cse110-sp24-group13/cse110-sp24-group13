@@ -47,8 +47,8 @@
 | [Name] | | |
 
 ## 5. Communication
-- **Primary channel:** [e.g., Slack, Discord, iMessage]
-- **Response time expectation:** Members should respond within [e.g., 24 hours] on weekdays.
+- **Primary channel:** Slack
+- **Response time expectation:** Members should respond within 24 hours on weekdays.
 - **Meetings:** [e.g., Tuesdays and Thursdays at 5 PM via Zoom / in-person at Geisel]
 - **Stand-ups:** [e.g., async daily updates in Slack by 9 PM]
 - Meeting notes will be posted to [location] within [timeframe] after each meeting.
