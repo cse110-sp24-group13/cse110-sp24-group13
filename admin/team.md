@@ -23,4 +23,4 @@ No **shortcuts**, we focus on the **foundation**. To us, 'Hard Coders' means bui
 * Jiangxi Fu https://a452957073.github.io/CSE110-lab1/
 * Ophir Maor
 * Stephanie Yan
-* Yang Zou
+* Yang Zou https://yaz128.github.io/CSE110_Lab_1/
