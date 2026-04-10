@@ -1,8 +1,8 @@
 # Team Charter — Group 13
 
-## 1. Team Purpose and Objectives - do once assigned project
-- Our team's mission is to [describe your team's purpose].
-- By the end of this project, we aim to [list key objectives/deliverables].
+## 1. Team Purpose and Objectives
+- Our team's mission is to deliver exceptional products and programs.
+- By the end of this project, we aim to gain valuable experience, make an impact, and grow as software engineers.
 
 ## 2. Values and Standards
 * Aura 
@@ -21,7 +21,7 @@
 | Developer | Andrew Lopez | Planning and Coding |
 | Developer | Aaron Thung | Coding and Miscellaneous tasks |
 | Developer | Stephanie Yan | Coding and Designing |
-| Developer | [Jeong MIn Park] | [Planning and Probelm-thinking] |
+| Developer | Jeong MIn Park | Planning and Probelm-thinking |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
@@ -39,8 +39,8 @@
 | Jeremy Lim | Coding Logic, Debugging | Communication |
 | Andrew Lopez | Coding Logic, Debugging, Communication| Debugging code not written by me|
 | Aaron Thung | Learning, Communication | Testing, Logistics |
-| [Stephanie Yan ] | Communication, Debugging | Debugging code not written by me |
-| [Jeong Min Park] | Planning |Communications |
+| Stephanie Yan  | Communication, Debugging | Debugging code not written by me |
+| Jeong Min Park | Planning |Communications |
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
@@ -48,10 +48,10 @@
 | [Name] | | |
 
 ## 5. Communication - update after when2meet completed
-- **Primary channel:** Slack
+- **Primary channel:** Slack.
 - **Response time expectation:** Members should respond within 24 hours on weekdays.
-- **Meetings:** [e.g., Tuesdays and Thursdays at 5 PM via Zoom / in-person at Geisel]
-- **Stand-ups:** async updates few times a week on progress and check ins
+- **Meetings:** Scheduled on average one week in advance based on availability.
+- **Stand-ups:** async updates few times a week on progress and check ins.
 - Meeting notes will be posted to slack within 3 hours after each meeting.
 
 ## 6. Scheduling and Availability
@@ -80,7 +80,7 @@
 - Equal and fair contribution from all members.
 - Positive team morale and communication.
 
-## 10. Signatures - update once everyone has completed
+## 10. Signatures
 By signing below, each member agrees to uphold this charter.
 
 Name: [Enter Name in a copied file, look to canvas/slack for instructions]
