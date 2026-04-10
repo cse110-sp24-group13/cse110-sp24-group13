@@ -20,7 +20,7 @@
 | Developer | Jeremy Lim | [Specific area of ownership] |
 | Developer | Andrew Lopez | Planning and Coding |
 | Developer | Aaron Thung | Coding and Miscellaneous tasks |
-| Developer | [Name] | [Specific area of ownership] |
+| Developer | Stephanie Yan | Coding and Designing |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
@@ -39,7 +39,7 @@
 | Jeremy Lim | Coding Logic, Debugging | Communication |
 | Andrew Lopez | Coding Logic, Debugging, Communication| Debugging code not written by me|
 | Aaron Thung | Learning, Communication | Testing, Logistics |
-| [Name] | | |
+| [Stephanie Yan ] | Communication, Debugging | Debugging code not written by me |
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
