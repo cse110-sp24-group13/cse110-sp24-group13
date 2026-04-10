@@ -80,7 +80,7 @@
 - Equal and fair contribution from all members.
 - Positive team morale and communication.
 
-## 10. Signatures
+## 10. Signatures - update once everyone has completed
 By signing below, each member agrees to uphold this charter.
 
 Name: [Enter Name in a copied file, look to canvas/slack for instructions]
