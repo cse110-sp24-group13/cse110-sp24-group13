@@ -21,7 +21,7 @@
 | Developer | Andrew Lopez | Planning and Coding |
 | Developer | Aaron Thung | Coding and Miscellaneous tasks |
 | Developer | Stephanie Yan | Coding and Designing |
-| Developer | [Name] | [Specific area of ownership] |
+| Developer | [Jeong MIn Park] | [Planning and Probelm-thinking] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
@@ -40,7 +40,7 @@
 | Andrew Lopez | Coding Logic, Debugging, Communication| Debugging code not written by me|
 | Aaron Thung | Learning, Communication | Testing, Logistics |
 | [Stephanie Yan ] | Communication, Debugging | Debugging code not written by me |
-| [Name] | | |
+| [Jeong Min Park] | Planning |Communications |
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
