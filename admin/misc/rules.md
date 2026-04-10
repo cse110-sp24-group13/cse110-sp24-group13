@@ -66,7 +66,7 @@
 
 ## 8. Rules and Accountability
 - All members are expected to complete assigned tasks by the agreed-upon deadlines.
-- All members are expected to take notes and update slack when completing a work session, updating the team consistently on progress
+- All members are expected to take notes and update slack when completing a work session, updating the team consistently on progress.
 - If a member is consistently not meeting expectations, the team will:
   1. Have a one-on-one conversation to understand the situation.
   2. Reassign work if needed and document the discussion.
