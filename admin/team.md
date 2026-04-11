@@ -21,6 +21,6 @@ No **shortcuts**, we focus on the **foundation**. To us, 'Hard Coders' means bui
 * Jeremy Lim https://jeremyflim.github.io/cse-110-lab1/
 * Jeong Park https://jep053.github.io/ucsd-cse110-lab1/
 * Jiangxi Fu https://a452957073.github.io/CSE110-lab1/
-* Ophir Maor
+* Ophir Maor https://ophir-m.github.io/Pages/
 * Stephanie Yan https://orchid-mantis3.github.io/Github-Pages/
 * Yang Zou https://yaz128.github.io/CSE110_Lab_1/
