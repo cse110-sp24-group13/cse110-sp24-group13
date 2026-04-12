@@ -3,6 +3,7 @@
 **Meeting Time:** 11:30 am on 4/09/2026
 
 **Attendance:** Aidan Rikic, Andrew Lopez, Jeong Min Park, Shazi Bidarian, Jiangxi Fu, Aaron Thung, Stephanie Yan, Jeremy Lim
+
 **Absent:** Yang Zou, Ophir Maor
 
 **Location:** Price Center, in front of Tapioca Express
