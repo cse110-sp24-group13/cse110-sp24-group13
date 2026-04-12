@@ -22,7 +22,7 @@
 | Developer | Aaron Thung | Coding and Miscellaneous tasks |
 | Developer | Stephanie Yan | Coding and Designing |
 | Developer | Jeong MIn Park | Planning and Probelm-thinking |
-| Developer | [Name] | [Specific area of ownership] |
+| Developer | Jiangxi Fu | Coding and Designing |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
@@ -41,7 +41,7 @@
 | Aaron Thung | Learning, Communication | Testing, Logistics |
 | Stephanie Yan  | Communication, Debugging | Debugging code not written by me |
 | Jeong Min Park | Planning |Communications |
-| [Name] | | |
+| Jiangxi Fu | Coding Logic, Debugging | Communication(weak English) |
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
