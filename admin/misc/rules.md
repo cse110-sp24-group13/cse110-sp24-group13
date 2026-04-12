@@ -23,7 +23,7 @@
 | Developer | Stephanie Yan | Coding and Designing |
 | Developer | Jeong MIn Park | Planning and Probelm-thinking |
 | Developer | Jiangxi Fu | Coding and Designing |
-| Developer | [Name] | [Specific area of ownership] |
+| Developer | Yang Zou | Coding and Designing |
 | Developer | [Name] | [Specific area of ownership] |
 | Developer | [Name] | [Specific area of ownership] |
 
@@ -42,7 +42,7 @@
 | Stephanie Yan  | Communication, Debugging | Debugging code not written by me |
 | Jeong Min Park | Planning |Communications |
 | Jiangxi Fu | Coding Logic, Debugging | Communication(weak English) |
-| [Name] | | |
+| Yang Zou | Coding, Problem-solving, Debugging | Communication, Team coordination |
 | [Name] | | |
 | [Name] | | |
 | [Name] | | |
