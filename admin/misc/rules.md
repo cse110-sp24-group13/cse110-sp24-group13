@@ -16,7 +16,7 @@
 | Role | Member | Responsibilities |
 |------|--------|-----------------|
 | Team Lead | Shazi Bidarian | Coordinate meetings, track overall progress, Contribute to project and team needs |
-| Team Lead | Aidan | Coordinate deadlines for assignments, track overall progress, Contribute to project and team needs |
+| Team Lead | Aidan Rikic| Coordinate deadlines for assignments, track overall progress, Contribute to project and team needs |
 | Developer | Jeremy Lim | [Specific area of ownership] |
 | Developer | Andrew Lopez | Planning and Coding |
 | Developer | Aaron Thung | Coding and Miscellaneous tasks |
