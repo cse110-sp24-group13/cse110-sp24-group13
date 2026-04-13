@@ -16,7 +16,7 @@
 | Role | Member | Responsibilities |
 |------|--------|-----------------|
 | Team Lead | Shazi Bidarian | Coordinate meetings, track overall progress, Contribute to project and team needs |
-| Team Lead | [Name] | [Specific area of ownership] |
+| Team Lead | Aidan | Coordinate deadlines for assignments, track overall progress, Contribute to project and team needs |
 | Developer | Jeremy Lim | [Specific area of ownership] |
 | Developer | Andrew Lopez | Planning and Coding |
 | Developer | Aaron Thung | Coding and Miscellaneous tasks |
@@ -43,7 +43,7 @@
 | Jeong Min Park | Planning |Communications |
 | Jiangxi Fu | Coding Logic, Debugging | Communication(weak English) |
 | Yang Zou | Coding, Problem-solving, Debugging | Communication, Team coordination |
-| [Name] | | |
+| Aidan Rikic | Some web-design, problem-solving, Communication  | Debugging, Coding Logic |
 | [Name] | | |
 | [Name] | | |
 
